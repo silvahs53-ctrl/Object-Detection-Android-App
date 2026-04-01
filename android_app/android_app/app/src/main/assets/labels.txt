@@ -2,3 +2,7 @@ fork
 knife
 plate
 spoon
+car
+bick
+person
+truck
